@@ -1,1 +1,1 @@
-# testing
+# Shopping list app
